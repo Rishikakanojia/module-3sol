@@ -1,4 +1,4 @@
 .navbar-brand{font-weight: bolder;font-size: large;margin: 10px;padding: 5px;}
 .navbar-right{background-color:mintcream ;text-align:center;color: darkblue;font-weight: bold;font-size: medium; }
-.col-lg-12{background-color:lightcyan;color:midnightblue; font-size : larger;font-weight: bolder;margin: 10px;padding: 5px;width: 100%;}
+.col-xs-12{background-color:lightcyan;color:midnightblue; font-size : larger;font-weight: bolder;margin: 10px;padding: 5px;width: 100%;}
 
